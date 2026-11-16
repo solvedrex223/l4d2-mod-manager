@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=L4D2 Mod Manager
+GenericName=Mod Manager
+Comment=Manage Left 4 Dead 2 add-ons: categories, groups, conflicts and randomization
+Exec=l4d2-mod-manager
+Icon=l4d2-mod-manager
+Terminal=false
+Categories=Game;Utility;
+StartupWMClass=l4d2-mod-manager
